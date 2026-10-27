@@ -31,5 +31,5 @@ Review the 5% suspicious transaction frequency with stricter alerts
 December looks partial, so the -96.58% growth is a data artifact
 
 6. Demo:
-
+https://github.com/Vaibhavikar/Credit-Debit-Analysis/blob/main/Credit%20Debit%20Analysis.png
 
