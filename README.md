@@ -12,4 +12,24 @@ DAX - Used for calculated measures, dynamic visuals and conditional logics.
 Data Modeling - Relationships established among tables to enable cross-filtering and aggregations.
 File Format - .pbix for development and .png for dashboard preview.
 
-4. 
+4. Key Visuals:
+KPI cards – High-risk transaction growth -96.58%; total credit ₹127.60M; net transaction
+₹318.1K; total debit ₹127.29M; total transaction ₹254.9M; account activity ratio 0.03%
+Area charts – Daily and monthly transactions
+Waterfall chart – Net by transaction method
+Stacked column + line – Credit versus debit by month
+Column chart – Top customers
+Bar chart – Balance by bank
+Ticker – Net position per bank
+Slicers – Bank name, transaction type.
+
+5. Recommendation:
+Credits (127.60M) and debits (127.29M) are almost equal: net inflow is only 318.1K, so liquidity needs watching
+Bank shares are even (16.4% to 16.8%): no bank dominates transaction value
+Punjab National Bank shows a negative net: review its outflows
+Review the 5% suspicious transaction frequency with stricter alerts
+December looks partial, so the -96.58% growth is a data artifact
+
+6. Demo:
+
+
